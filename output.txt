@@ -1,0 +1,17 @@
+ Le volume dans le lecteur C s'appelle Windows-SSD
+ Le num‚ro de s‚rie du volume est D469-9BE7
+
+ R‚pertoire de C:\Users\Rifaat\sds-website-testing
+
+07/03/2025  14:51    <DIR>          .
+07/03/2025  10:57    <DIR>          ..
+07/03/2025  10:58    <DIR>          node_modules
+07/03/2025  14:51                 0 output.txt
+07/03/2025  10:58             2ÿ304 package-lock.json
+07/03/2025  10:58               324 package.json
+07/03/2025  14:32    <DIR>          playwright
+07/03/2025  14:30    <DIR>          playwright-report
+07/03/2025  14:31               215 playwright.config.js
+07/03/2025  14:48    <DIR>          test-results
+               4 fichier(s)            2ÿ843 octets
+               6 R‚p(s)  405ÿ055ÿ950ÿ848 octets libres
