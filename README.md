@@ -23,6 +23,9 @@ Running Playwright Tests
 To run the Playwright tests, use the following command:
 npx playwright test --config playwright.config.js
 
+To run individual Playwright tests (in case one is failing due to time interval of the all tests), use the following command:
+npx playwright test playwright/navigation.spec.js --config playwright.config.js
+
 Timeout Issues
 If you encounter timeout issues during the tests, it's likely because the page load or elements are taking longer than expected to appear or load. In such cases, you can increase the timeout values in the test scripts and configuration file.
 
